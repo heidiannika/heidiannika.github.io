@@ -1,0 +1,32 @@
+ img{
+
+ 	height: 200px;
+    width: 110%;
+}
+
+.background {
+	background-image: url(background-whiter.jpg);
+
+}
+
+body {
+  background: none;
+  color: black;
+  font-family: "Open Sans", Arial, sans-serif;
+  }
+
+  .background {
+background-image: url(background-whiter.jpg);
+background-size: cover;
+
+}
+
+p {
+  background: none;
+  font-family: "Open Sans", Arial, sans-serif;
+
+}
+
+.white-text {
+	color: #303133;
+}
